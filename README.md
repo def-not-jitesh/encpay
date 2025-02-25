@@ -18,6 +18,6 @@ the program returns decryption function and key in a .c file for encryption meth
 
 to compile the program you would need the minGW x86-64 compiler.
 
-clone this repository and run the following commands to compile the program.
+clone this repository and run the following commands to compile the program.\n
 $: make
 
