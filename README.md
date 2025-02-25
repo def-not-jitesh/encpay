@@ -16,7 +16,8 @@ the program returns decryption function and key in a .c file for encryption meth
 
 #### HOW TO INSTALL ####
 
-to compile the program you would need the minGW x86-64 compiler.
+to compile the program you would need the mingw-gcc x86-64 compiler.
+You would have to compile the program on unix based systems like linux/macOS and then transfer it to a windows sandbox environment.
 
 clone this repository and run the following commands to compile the program. 
  `$: make`
